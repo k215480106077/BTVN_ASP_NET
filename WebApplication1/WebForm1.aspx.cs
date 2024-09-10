@@ -37,7 +37,7 @@ namespace WebApplication1
             else
             {
                 double area = Class1.thetich(a, h);
-                lblResult.Text = $"Diện tích hình thang là: {area}";
+                lblResult.Text = $"Thể tích hình trụ là: {area}";
             }
         }
     }

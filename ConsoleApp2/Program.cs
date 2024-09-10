@@ -33,7 +33,7 @@ namespace ConsoleApp2
                 }
 
                 double area = Math.PI * r * r * h;
-                Console.WriteLine($"Dien tich hinh thang la : {area}");
+                Console.WriteLine($"The tich hinh tru la : {area}");
             }
             catch (Exception ex)
             {
